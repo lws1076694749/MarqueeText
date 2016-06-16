@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MarqueeText</string>
+    <string name="show_text">这是一个很长很长的文字！真的很长很长的！这是一个很长很长的文字！真的很长很长的！这是一个很长很长的文字！真的很长很长的！</string>
+</resources>
